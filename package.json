@@ -1,8 +1,8 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "BiziBot ",
+  "description": "zedi slucha bialasa",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.js", zedi slucha bialasa
   "scripts": {
     "start": "node bot.js"
   },
